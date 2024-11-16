@@ -1,2 +1,2 @@
-# Public
+# PRIVATE
 tea.yaml
